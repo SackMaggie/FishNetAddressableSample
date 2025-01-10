@@ -19,11 +19,31 @@ MonoBehaviour:
   assetReferences:
   - prefabId: 10615
     assetPath: Assets/PlayerObject.prefab
-    isAddressable: 1
+    isAddressable: 0
     assetReference:
-      m_AssetGUID: 3955afd1f44d9bf4894a904ae573f881
+      m_AssetGUID: 
       m_SubObjectName: 
       m_SubObjectType: 
       m_EditorAssetChanged: 0
     status: 0
     networkObjectPrefab: {fileID: -7450108194649773702, guid: 3955afd1f44d9bf4894a904ae573f881, type: 3}
+  - prefabId: 57009
+    assetPath: Assets/SampleNetworkObject.prefab
+    isAddressable: 1
+    assetReference:
+      m_AssetGUID: b707bfb04f8459c42ad8baec4f3aa809
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    status: 0
+    networkObjectPrefab: {fileID: 5008860099040513713, guid: b707bfb04f8459c42ad8baec4f3aa809, type: 3}
+  - prefabId: 16865
+    assetPath: Assets/SampleGameServer.prefab
+    isAddressable: 1
+    assetReference:
+      m_AssetGUID: 626c537ebf171504682ec4ac535eee6e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    status: 0
+    networkObjectPrefab: {fileID: 7141060744282239100, guid: 626c537ebf171504682ec4ac535eee6e, type: 3}

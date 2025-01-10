@@ -16,7 +16,17 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: e1379acd4ce1baa4890929f345dc33b2
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 626c537ebf171504682ec4ac535eee6e
+    m_Address: Assets/SampleGameServer.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b707bfb04f8459c42ad8baec4f3aa809
+    m_Address: Assets/NetworkedCubePrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 7592d19003381884cb8e9f60c9e77bfb, type: 2}
   m_SchemaSet:
